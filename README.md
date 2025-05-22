@@ -1,7 +1,7 @@
 # Stock Market Analysis Project
 
 ## Project Overview
-This project analyzes a comprehensive stock market dataset to extract meaningful business insights using Microsoft Excel. The goal is to demonstrate foundational to intermediate data analysis skills, including data cleaning, visualization, and dashboard creation — essential for a junior data analyst role.
+This project analyzes a comprehensive stock market dataset to extract meaningful business insights using Microsoft Excel. The goal is to demonstrate foundational to intermediate data analysis skills essential for a junior data analyst role. This includes data cleaning, visualization, and dashboard creation — .
 
 ---
 
